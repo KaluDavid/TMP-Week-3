@@ -1,6 +1,4 @@
-# TMP-Week-3 https://kaludavid.github.io/TMP-Week-3/
-
-# Project on TheJustProject
+# TMP-Week-3 
 A developed Page of a mini school website
 <br />
 
